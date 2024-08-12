@@ -1,7 +1,8 @@
 /**@marcoyimyaem
  * a plant class
  * that will emulate plant growth*/
-public class Plant {
+package chapter1;
+ public class Plant {
     int numberOfLeaves;
     int numberOfFruit;
     // a plant class 
