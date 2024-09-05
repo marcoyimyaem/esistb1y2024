@@ -1,4 +1,4 @@
-public class Scope {
+public class Scope  {
     public static void main(String[] args) {
     String one, two;
     one = new String("a");
