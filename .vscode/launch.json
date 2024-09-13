@@ -1,0 +1,254 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            
+        },
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveLesson",
+            "request": "launch",
+            "mainClass": "PrimitiveLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "_C",
+            "request": "launch",
+            "mainClass": "_C",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "Constructor1",
+            "request": "launch",
+            "mainClass": "chapter1.Constructor1",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "NamingConflict",
+            "request": "launch",
+            "mainClass": "chapter1.NamingConflict",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "PackageLesson",
+            "request": "launch",
+            "mainClass": "chapter1.PackageLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "IfLesson",
+            "request": "launch",
+            "mainClass": "chapter2.IfLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "LoopsLesson",
+            "request": "launch",
+            "mainClass": "chapter2.LoopsLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsLesson",
+            "request": "launch",
+            "mainClass": "chapter2.OperatorsLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayListLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeLesson",
+            "request": "launch",
+            "mainClass": "chapter3.DateTimeLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilerLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringBuilerLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "StringLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "AB",
+            "request": "launch",
+            "mainClass": "chapter4.AB",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorLesson",
+            "request": "launch",
+            "mainClass": "chapter4.ConstructorLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "EncapLesson",
+            "request": "launch",
+            "mainClass": "chapter4.EncapLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "LambdaLesson",
+            "request": "launch",
+            "mainClass": "chapter4.LambdaLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "MethodsLesson",
+            "request": "launch",
+            "mainClass": "chapter4.MethodsLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "Mouse",
+            "request": "launch",
+            "mainClass": "chapter4.Mouse",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "OtherClass1",
+            "request": "launch",
+            "mainClass": "chapter4.OtherClass1",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "OverLoadingMethodsLesson",
+            "request": "launch",
+            "mainClass": "chapter4.OverLoadingMethodsLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "StaticImportLesson",
+            "request": "launch",
+            "mainClass": "chapter4.StaticImportLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "VarArgsLesson",
+            "request": "launch",
+            "mainClass": "chapter4.VarArgsLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "AbstractLesson",
+            "request": "launch",
+            "mainClass": "chapter5.AbstractLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "Bear",
+            "request": "launch",
+            "mainClass": "chapter5.Bear",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismLesson",
+            "request": "launch",
+            "mainClass": "chapter5.PolymorphismLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "ZooWorker",
+            "request": "launch",
+            "mainClass": "chapter5.ZooWorker",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionLesson",
+            "request": "launch",
+            "mainClass": "chapter6.ExceptionLesson",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchLesson",
+            "request": "launch",
+            "mainClass": "chapter6.TryCatchLesson",
+            "projectName": "esistb1y2024_cab19c90",
+            "args": "1"
+        },
+        {
+            "type": "java",
+            "name": "OtherClass2",
+            "request": "launch",
+            "mainClass": "otherFolder.OtherClass2",
+            "projectName": "esistb1y2024_cab19c90"
+        },
+        {
+            "type": "java",
+            "name": "OtherClass3",
+            "request": "launch",
+            "mainClass": "otherFolder.OtherClass3",
+            "projectName": "esistb1y2024_cab19c90"
+        }
+    ]
+}
